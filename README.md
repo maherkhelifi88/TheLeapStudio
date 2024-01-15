@@ -33,4 +33,8 @@ Feel free to explore the codebase, experiment with the animation features, and a
 
 ---
 
+![screenshot-Metaverse_1](https://github.com/SarkissArmaniUS/next.js-Metaverse_Frame_Animation_Deployed/assets/97789627/d4ec85c7-99af-4678-93c1-712d1a4fa03c)
 
+---
+
+![screenshot-Metaverse_2](https://github.com/SarkissArmaniUS/next.js-Metaverse_Frame_Animation_Deployed/assets/97789627/8f361453-abb0-4abf-aca5-57d6cc834556)
