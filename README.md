@@ -28,3 +28,9 @@ Explore the immersive world of the Metaverse through this Next.js website, showc
 - **Motion Library:** Enhancing animations with the help of motion-related utilities.
 
 Feel free to explore the codebase, experiment with the animation features, and adapt the template to your own Metaverse projects. Contributions and feedback are encouraged!
+
+## 📷 Screenshots
+
+---
+
+
