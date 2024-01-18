@@ -15,25 +15,20 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Metaversus" textStyles="text-center" />
+      <TypingText title="| About The Leap Studio" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Metaverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this metaverse
-        world, because this is really the{' '}
+        <span className="font-extrabold text-white">The Leap Studio</span> carefully refine, thoughtfully design, 
+        and meticulously test your innovative ideas. We are here to {' '}
         <span className="font-extrabold text-white">
-          madness of the metaverse
+        assist
         </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+         you every step of the way
+         in building and bringing your creative visions to life.{' '}
+        
       </motion.p>
 
       <motion.img
@@ -43,7 +38,7 @@ const About = () => (
         className="w-[18px] h-[28px] object-contain mt-[28px]"
       />
     </motion.div>
-  </section>
+    </section>
 );
 
 export default About;

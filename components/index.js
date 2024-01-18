@@ -5,7 +5,7 @@ import StartSteps from './StartSteps';
 import NewFeatures from './NewFeatures';
 import InsightCard from './InsightCard';
 import Footer from './Footer';
-
+import ServiceCard from './ServiceCard';
 export {
   Navbar,
   TitleText,
@@ -15,4 +15,5 @@ export {
   ExploreCard,
   InsightCard,
   Footer,
+  ServiceCard,
 };

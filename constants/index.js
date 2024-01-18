@@ -1,68 +1,64 @@
+
+
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: '/work.jpeg',
+    title: 'Workshop your idea',
+    description:'Craft your problem statement, define your customer segments, and refine your market differentiators.'
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    imgUrl: '/WORKSHOP.jpeg',
+    title: 'Build your MVP',
+    description:'Collaborate with our UX Engineers to develop your Minimum Viable Product (MVP).'
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    imgUrl: '/test.jpeg',
+    title: 'Test and refine',
+    description:'Collaborate with our research team to collect user feedback and enhance your product to achieve optimal market fit.'
   },
-  {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
-  },
-  {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
-  },
+  
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Creating account to our website and use it for your required time. We are always ready to give you support all the time to grow business.',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    number:'20%',
+    title: 'Increase in retention',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        '',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    number:'1.5X',
+    title: 'User base growth',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        '',
   },
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: '/image.png',
+    title: 'Kanteen',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: '/canoe.png',
+    title: 'Alaska Kenai Adventure',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: "L'Mida Restaurant",
     subtitle:
         'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
   },
@@ -84,5 +80,34 @@ export const socials = [
   {
     name: 'facebook',
     url: '/facebook.svg',
+  },
+];
+
+
+export const services = [
+  {
+    title: "Maher khelifi",
+    imgUrl: '/maher.jpg',
+    job:'CEO'
+  },
+  {
+    title: "Sarah Jedlaoui",
+    imgUrl: '/maher.jpg',
+    job:'Web developer'
+  },
+  {
+    title: "Amal chelly",
+    imgUrl: '/maher.jpg',
+    job:'videographer'
+  },
+  {
+    title: "Eya Bro",
+    imgUrl: '/maher.jpg',
+    job:'SMM'
+  },
+  {
+    title: "Maher khelifi",
+    imgUrl: '/maher.jpg',
+    job:'CEO'
   },
 ];

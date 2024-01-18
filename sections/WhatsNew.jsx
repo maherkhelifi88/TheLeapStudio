@@ -20,7 +20,11 @@ const WhatsNew = () => (
         className="flex-[0.95] flex justify-center flex-col"
       >
         <TypingText title="| Whats new?" />
-        <TitleText title={<>What's new about Metaversus?</>} />
+        <TitleText title={<>Custom-made reports to make great decisions</>} />
+
+        <p className="flex-1 mt-[16px] font-normal text-[18px] text-[#B0B0B0] leading-[32.4px]">
+        We have considered our solutions to support every stage of your growth. We are the fastest and easiest way to launch SaaS.
+    </p>
         <div className="mt-[48px] flex flex-wrap justify-between gap-[24px]">
           {newFeatures.map((feature) => (
             <NewFeatures key={feature.title} {...feature} />
@@ -33,7 +37,7 @@ const WhatsNew = () => (
         className={`flex-1 ${styles.flexCenter}`}
       >
         <img
-          src="/whats-new.png"
+          src="/report.svg"
           alt="get-started"
           className="w-[90%] h-[90%] object-contain"
         />

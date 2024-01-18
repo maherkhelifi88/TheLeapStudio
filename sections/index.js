@@ -6,7 +6,10 @@ import WhatsNew from './WhatsNew';
 import World from './World';
 import Insights from './Insights';
 import Feedback from './Feedback';
-
+import Team from './Team';
+import Contact from './Contact';
+import CanvasLoader from "./Loader";
+import { EarthCanvas, StarsCanvas } from './canvas';
 export {
   Hero,
   About,
@@ -16,4 +19,9 @@ export {
   World,
   Insights,
   Feedback,
+  Team,
+  Contact,
+  CanvasLoader,
+  EarthCanvas, 
+  StarsCanvas
 };

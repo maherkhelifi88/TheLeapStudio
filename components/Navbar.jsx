@@ -21,13 +21,14 @@ const Navbar = () => (
         className="w-[24px] h-[24px] object-contain"
       />
       <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
-        METAVERSUS
+        The Leap Studio
       </h2>
-      <img
-        src="/menu.svg"
-        alt="menu"
-        className="w-[24px] h-[24px] object-contain"
-      />
+      <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
+          
+          <span className="font-normal text-[16px] text-white">
+            Book a Call
+          </span>
+        </button>
     </div>
   </motion.nav>
 );
