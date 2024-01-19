@@ -8,20 +8,20 @@
  */
 (self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app\\layout"],{
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5CBEI%5CDesktop%5Cnext.js-Metaverse_Frame_Animation_Deployed%5Cstyles%5Cglobals.css&server=false!":
-/*!****************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5CBEI%5CDesktop%5Cnext.js-Metaverse_Frame_Animation_Deployed%5Cstyles%5Cglobals.css&server=false! ***!
-  \****************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5CBEI%5CDesktop%5CTheLeapStudio%5Cstyles%5Cglobals.css&server=false!":
+/*!***********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5CBEI%5CDesktop%5CTheLeapStudio%5Cstyles%5Cglobals.css&server=false! ***!
+  \***********************************************************************************************************************************************************************************/
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
-eval(__webpack_require__.ts("(() => __webpack_require__.e(/*! import() */ \"styles_globals_css\").then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"./styles/globals.css\")))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9QyUzQSU1Q1VzZXJzJTVDQkVJJTVDRGVza3RvcCU1Q25leHQuanMtTWV0YXZlcnNlX0ZyYW1lX0FuaW1hdGlvbl9EZXBsb3llZCU1Q3N0eWxlcyU1Q2dsb2JhbHMuY3NzJnNlcnZlcj1mYWxzZSEuanMiLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxtS0FBNEgiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz9iYmRkIl0sInNvdXJjZXNDb250ZW50IjpbIigoKSA9PiBpbXBvcnQoLyogd2VicGFja01vZGU6IFwibGF6eVwiICovIFwiQzpcXFxcVXNlcnNcXFxcQkVJXFxcXERlc2t0b3BcXFxcbmV4dC5qcy1NZXRhdmVyc2VfRnJhbWVfQW5pbWF0aW9uX0RlcGxveWVkXFxcXHN0eWxlc1xcXFxnbG9iYWxzLmNzc1wiKSkiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5CBEI%5CDesktop%5Cnext.js-Metaverse_Frame_Animation_Deployed%5Cstyles%5Cglobals.css&server=false!\n"));
+eval(__webpack_require__.ts("(() => __webpack_require__.e(/*! import() */ \"styles_globals_css\").then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"./styles/globals.css\")))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9QyUzQSU1Q1VzZXJzJTVDQkVJJTVDRGVza3RvcCU1Q1RoZUxlYXBTdHVkaW8lNUNzdHlsZXMlNUNnbG9iYWxzLmNzcyZzZXJ2ZXI9ZmFsc2UhLmpzIiwibWFwcGluZ3MiOiJBQUFBLE9BQU8sbUtBQStGIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8/YmVjZiJdLCJzb3VyY2VzQ29udGVudCI6WyIoKCkgPT4gaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImxhenlcIiAqLyBcIkM6XFxcXFVzZXJzXFxcXEJFSVxcXFxEZXNrdG9wXFxcXFRoZUxlYXBTdHVkaW9cXFxcc3R5bGVzXFxcXGdsb2JhbHMuY3NzXCIpKSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5CBEI%5CDesktop%5CTheLeapStudio%5Cstyles%5Cglobals.css&server=false!\n"));
 
 /***/ })
 
 },
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5CBEI%5CDesktop%5Cnext.js-Metaverse_Frame_Animation_Deployed%5Cstyles%5Cglobals.css&server=false!"); });
+/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5CBEI%5CDesktop%5CTheLeapStudio%5Cstyles%5Cglobals.css&server=false!"); });
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ _N_E = __webpack_exports__;
 /******/ }
