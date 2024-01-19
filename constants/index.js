@@ -48,13 +48,13 @@ export const insights = [
     imgUrl: '/image.png',
     title: 'Kanteen',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Magnaolestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
     imgUrl: '/canoe.png',
     title: 'Alaska Kenai Adventure',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'Vitae congue eu consequat ac felis donec. immagnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
     imgUrl: '/planet-08.png',
