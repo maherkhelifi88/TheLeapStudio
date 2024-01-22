@@ -45,7 +45,7 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/image.webp',
+    imgUrl: '/Image.webp',
     title: 'Kanteen',
     subtitle:
         'Magnaolestie. Diam maecenas sed enim ut sem viverra alique.',

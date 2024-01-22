@@ -42,7 +42,7 @@ const Feedback = () => (
         <Image
           width={500}
           height={300}
-          src="/image.webp"
+          src="/Image.webp"
           alt="feedback"
           className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
         />
