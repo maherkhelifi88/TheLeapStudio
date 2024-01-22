@@ -40,8 +40,8 @@ const Feedback = () => (
         className="relative flex-1 flex justify-center items-center"
       >
         <img
-          src="/image.png"
-          alt="planet-09"
+          src="https://res.cloudinary.com/dfjuxc3h3/image/upload/v1705920263/lnwx1xdhszgw6nnaghav.png"
+          alt="feedback"
           className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
         />
 

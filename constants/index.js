@@ -3,19 +3,19 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/work.jpeg',
+    imgUrl: 'https://res.cloudinary.com/dfjuxc3h3/image/upload/v1705920029/zi2tgzgnimjfqjgeaaiy.jpg',
     title: 'Workshop your idea',
     description:'Craft your problem statement, define your customer segments, and refine your market differentiators.'
   },
   {
     id: 'world-2',
-    imgUrl: '/WORKSHOP.jpeg',
+    imgUrl: 'https://res.cloudinary.com/dfjuxc3h3/image/upload/v1705919299/teun80ozm8zztckwvkf3.jpg',
     title: 'Build your MVP',
     description:'Collaborate with our UX Engineers to develop your Minimum Viable Product (MVP).'
   },
   {
     id: 'world-3',
-    imgUrl: '/test.jpeg',
+    imgUrl: 'https://res.cloudinary.com/dfjuxc3h3/image/upload/v1705919310/lsnn9qwbvejaotvvihrp.jpg',
     title: 'Test and refine',
     description:'Collaborate with our research team to collect user feedback and enhance your product to achieve optimal market fit.'
   },

@@ -35,7 +35,7 @@ const Hero = () => (
 
 
         <video autoPlay muted loop className="w-full sm:h-[500px] h-[350px] object-cover rounded-tl-[140px] z-10 relative">
-          <source src="/bubbles.mp4" type="video/mp4" />
+          <source src="https://res.cloudinary.com/dfjuxc3h3/video/upload/v1705919357/rvtjlhbiktomhntmxuxc.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
 
