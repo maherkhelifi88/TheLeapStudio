@@ -45,13 +45,13 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/image.png',
+    imgUrl: 'https://res.cloudinary.com/dfjuxc3h3/image/upload/v1705920263/lnwx1xdhszgw6nnaghav.png',
     title: 'Kanteen',
     subtitle:
         'Magnaolestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
-    imgUrl: '/canoe.png',
+    imgUrl: 'https://res.cloudinary.com/dfjuxc3h3/image/upload/v1705920708/mlmr8uy51zx69oj3jld3.png',
     title: 'Alaska Kenai Adventure',
     subtitle:
         'Vitae congue eu consequat ac felis donec. immagnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
