@@ -9,10 +9,10 @@ const InsightCard = ({ imgUrl, title, subtitle, index }) => (
     variants={fadeIn('up', 'spring', index * 0.5, 1)}
     className="flex md:flex-row flex-col gap-4"
   >
-     <Image
-                src={imgUrl}
-                width={500}
-                height={300}
+    <Image
+      src={imgUrl}
+      width={500}
+      height={300}
       alt="planet-01"
       className="md:w-[270px] w-full h-[250px] rounded-[32px] object-cover"
     />

@@ -42,7 +42,7 @@ const Feedback = () => (
         <Image
           width={500}
           height={300}
-          src="https://res.cloudinary.com/dfjuxc3h3/image/upload/v1705920263/lnwx1xdhszgw6nnaghav.png"
+          src="/image.webp"
           alt="feedback"
           className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
         />
