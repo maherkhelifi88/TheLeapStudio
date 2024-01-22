@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-
+import Image from 'next/image'
 import styles from '../styles';
 import { fadeIn, staggerContainer, zoomIn } from '../utils/motion';
 
@@ -39,7 +39,9 @@ const Feedback = () => (
         variants={fadeIn('left', 'tween', 0.2, 1)}
         className="relative flex-1 flex justify-center items-center"
       >
-        <img
+        <Image
+          width={500}
+          height={300}
           src="https://res.cloudinary.com/dfjuxc3h3/image/upload/v1705920263/lnwx1xdhszgw6nnaghav.png"
           alt="feedback"
           className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"

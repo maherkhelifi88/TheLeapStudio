@@ -1,47 +1,47 @@
 'use client';
 
 import React, { useState } from "react";
-import {Tilt} from "react-tilt";
+import { Tilt } from "react-tilt";
 import { motion, AnimatePresence } from "framer-motion";
 import styles from './ServiceCard.module.css';
 import { fadeIn } from "../utils/motion";
-
+import Image from 'next/image'
 const ServiceCard = ({ index, title, imgUrl, job }) => {
   const [isFlipped, setIsFlipped] = useState(false);
 
   const flipVariants = {
-    front: { 
-      rotateY: 0, 
-      transition: { duration: 1 } 
+    front: {
+      rotateY: 0,
+      transition: { duration: 1 }
     },
-    back: { 
-      rotateY: 180, 
+    back: {
+      rotateY: 180,
       transition: { duration: 1 }
     }
-    
+
   };
 
   // Variants for the flip animation
   const cardVariants = {
-    front: { 
-      rotateY: 0, 
+    front: {
+      rotateY: 0,
       transition: { duration: 1 }
     },
-    back: { 
-      rotateY: 180, 
-      transition: { duration: 1 } 
+    back: {
+      rotateY: 180,
+      transition: { duration: 1 }
     }
   };
 
   // Variants for the back content to counteract the flip transformation
   const contentVariants = {
-    front: { 
-      rotateY: 0, 
-      transition: { duration: 1 } 
+    front: {
+      rotateY: 0,
+      transition: { duration: 1 }
     },
-    back: { 
-      rotateY: 360, 
-      transition: { duration: 1 } 
+    back: {
+      rotateY: 360,
+      transition: { duration: 1 }
     }
   };
   return (
@@ -63,7 +63,11 @@ const ServiceCard = ({ index, title, imgUrl, job }) => {
               exit="back"
               className="bg-tertiary rounded-[20px] p-1 min-h-[260px] flex justify-evenly items-center flex-col"
             >
-              <img src={imgUrl} alt={title} className="w-56 h-56 object-contain rounded-[20px]" />
+              <Image
+                src={imgUrl}
+                width={500}
+                height={300}
+                alt={title} className="w-56 h-56 object-contain rounded-[20px]" />
               <h3 className="text-white text-[20px] font-bold text-center">{title}</h3>
             </motion.div>
           ) : (
